@@ -11,15 +11,15 @@ HTML, CSS, JavaScript, React.js, PHP
 What Do I Share on GitHub?
 While I keep my client projects private, on GitHub, I share various JavaScript web applications and website templates. Feel free to explore my code and contribute to my projects!
 
-Hobbies
+## Hobbies
 In my free time, I am passionate about sports. Running is my primary sport, and I also enjoy rowing. These activities keep me mentally and physically refreshed, enhancing my productivity in my professional life.
 
-My Profiles
+## My Profiles
 LinkedIn -> https://www.linkedin.com/in/kaan-pamukcu/
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Merhaba! 👋
+## Merhaba! 👋
 
 Ben Kaan, profesyonel bir Web Geliştirici ve Dijital Pazarlama Uzmanıyım. Şu anda Türkiye'nin önde gelen bir sağlık firmasında web yazılım alanında çalışıyor ve markanın Google reklamlarını yönetiyorum. Geliştirdiğim web siteleri yüksek performans sergilerken, reklam kampanyalarından da başarılı sonuçlar elde ediyoruz.
 
@@ -27,13 +27,13 @@ Bunun yanı sıra, İstanbul’daki prestijli bir bilişim akademisinde web tasa
 
 Ayrıca, yenilikçi eğitim yöntemleriyle öne çıkan bir dil eğitim kursu için de uzaktan web geliştirici olarak hizmet veriyorum.
 
-Teknolojiler
+## Teknolojiler
 HTML, CSS, JavaScript, React.js, PHP
 GitHub’da Neler Paylaşıyorum?
 Müşterilerim için geliştirdiğim projeleri gizli olarak tutarken, GitHub’da çeşitli JavaScript web uygulamaları ve web sitesi şablonları paylaşıyorum. Kodlarıma göz atıp, projelere katkıda bulunabilirsiniz!
 
-Hobilerim
+## Hobilerim
 Boş zamanlarımda spor ile ilgileniyorum. Koşu ana spor dalım olmakla beraber, aynı zamanda kürek çekme ile de uğraşıyorum. Hem zihinsel hem de fiziksel olarak beni taze tutan bu aktiviteler, iş hayatımdaki verimliliği de artırıyor.
 
-Profillerim
+## Profillerim
 LinkedIn -> https://www.linkedin.com/in/kaan-pamukcu/
