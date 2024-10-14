@@ -6,7 +6,7 @@ In addition, I teach web design, JavaScript, React.js, PHP, and digital marketin
 
 I also provide remote web development services for a language course known for its unique and successful teaching strategy.
 
-Technologies
+## Technologies
 HTML, CSS, JavaScript, React.js, PHP
 What Do I Share on GitHub?
 While I keep my client projects private, on GitHub, I share various JavaScript web applications and website templates. Feel free to explore my code and contribute to my projects!
