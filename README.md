@@ -8,7 +8,8 @@ I also provide remote web development services for a language course known for i
 
 ## Technologies
 HTML, CSS, JavaScript, React.js, PHP
-What Do I Share on GitHub?
+
+## What Do I Share on GitHub?
 While I keep my client projects private, on GitHub, I share various JavaScript web applications and website templates. Feel free to explore my code and contribute to my projects!
 
 ## Hobbies
@@ -29,7 +30,8 @@ Ayrıca, yenilikçi eğitim yöntemleriyle öne çıkan bir dil eğitim kursu i�
 
 ## Teknolojiler
 HTML, CSS, JavaScript, React.js, PHP
-GitHub’da Neler Paylaşıyorum?
+
+## GitHub’da Neler Paylaşıyorum?
 Müşterilerim için geliştirdiğim projeleri gizli olarak tutarken, GitHub’da çeşitli JavaScript web uygulamaları ve web sitesi şablonları paylaşıyorum. Kodlarıma göz atıp, projelere katkıda bulunabilirsiniz!
 
 ## Hobilerim
